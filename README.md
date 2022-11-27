@@ -1,1 +1,1 @@
-https://dankam-metaversus.netlify.app/
+https://dankamn-metaversus.netlify.app/
